@@ -1,6 +1,6 @@
 # Top PyPI Packages Installer
 
-This script fetches the top 50 most-downloaded Python packages from [hugovk's top-pypi-packages website](https://hugovk.github.io/top-pypi-packages/) and installs them in a new virtual environment.
+This script fetches the top most-downloaded Python packages from [hugovk's top-pypi-packages website](https://hugovk.github.io/top-pypi-packages/) and installs them in a new virtual environment.
 
 ## Prerequisites
 
@@ -39,7 +39,3 @@ Remember to deactivate the virtual environment when you're done:
 ```bash
 deactivate
 ```
-
-## License
-
-This project is open-sourced under the MIT License. See the LICENSE file for details.
